@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food_App</string>
+    <string name="deepak_s_darbar">Deepak\'s Darbar</string>
+    <string name="explore_your_food">explore your food</string>
+    <string name="String">Veg Pizza</string>
+    <string name="non_veg_pizza">Non-Veg Pizza</string>
+    <string name="pasta">Pasta</string>
+    <string-array name="Mode_of_Delivery">
+        <item>Home Delivery-30 mins</item>
+        <item>Store Pick-Up - 20 mins</item>
+    </string-array>
+</resources>
