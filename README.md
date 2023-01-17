@@ -11,10 +11,10 @@
 ![pasta](https://github.com/K-DeepakSingh/FoodApp/blob/master/Food%20App/pasta.jpg)
 
 # customizable menu
-![customizable](https://github.com/K-DeepakSingh/FoodApp/blob/master/Food%20App/customizable.jpg)
+![customizable](https://github.com/K-DeepakSingh/FoodApp/blob/master/Food%20App/customize.jpg)
 
 # cart
 ![Cart](https://github.com/K-DeepakSingh/FoodApp/blob/master/Food%20App/cart.jpg)
 
 # timer 
-![ESP32](https://github.com/K-DeepakSingh/FoodApp/blob/master/Food%20App/timer.jpg)
+![ESP32](https://github.com/K-DeepakSingh/FoodApp/blob/master/Food%20App/Timer.jpg)
